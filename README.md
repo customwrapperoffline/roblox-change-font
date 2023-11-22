@@ -1,5 +1,5 @@
 # roblox-change-font
-This is instructions on how to put JetBrains Mono to the Roblox client. Credits to JetBrains and Grammarly for fixing the text.
+This is instructions on how to put JetBrains Mono to the Roblox client. Credits to JetBrains for the font and Grammarly for fixing the text.
 
 # THIS IS UNDONE!
 Please do not use this repository before I complete putting the fonts.
