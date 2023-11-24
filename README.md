@@ -21,7 +21,7 @@ Make sure you are on AppData/Local/Roblox/roblox-client-version/ (roblox-client-
 # Instructions on Mac
 Done on macOS 12 on an Early 2015 MacBook Air (outdated, but still runs Roblox decently)
 
-The instructions are a little bit different than the one for Windows. Make sure you are in the Applications folder, and search for the Roblox app. Then right-click on the Roblox app and then click on "placeholder-please-change". Go to Contents/content/, and then copy both Source Sans and Gotham fonts to the fonts folder.
+The instructions are a little bit different than the one for Windows. Make sure you are in the Applications folder, and search for the Roblox app. Then right-click on the Roblox app and then click on "View package contents". Go to Contents/content/, and then copy both Source Sans and Gotham fonts to the fonts folder.
 
 ## Extras
 This is optional.
