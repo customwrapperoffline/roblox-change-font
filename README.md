@@ -6,7 +6,7 @@ Please do not use this repository before I complete putting the fonts.
 
 ## License
 JetBrains Mono license:
-JetBrains Mono typeface is available under the SIL Open Font License 1.1 license and can be used free of charge, for both commercial and non-commercial purposes. You do not need to give credit to JetBrains, although we will appreciate it very much if you do.
+```JetBrains Mono typeface is available under the SIL Open Font License 1.1 license and can be used free of charge, for both commercial and non-commercial purposes. You do not need to give credit to JetBrains, although we will appreciate it very much if you do.```
 
 ## WARNING
 Could you make sure to back up Source Sans fonts in case you want to change it back? Also, there may be issues with the font, for example, the spacing in chat, etc. I am not responsible for the issues that will happen, please take caution.
@@ -22,6 +22,11 @@ Make sure you are on AppData/Local/Roblox/roblox-client-version/ (roblox-client-
 Done on macOS 12 on an Early 2015 MacBook Air (outdated, but still runs Roblox decently)
 
 The instructions are a little bit different than the one for Windows. Make sure you are in the Applications folder, and search for the Roblox app. Then right-click on the Roblox app and then click on "placeholder-please-change". Go to Contents/content/, and then copy both Source Sans and Gotham fonts to the fonts folder.
+
+## Extras
+This is optional.
+If you want to lose ≈16.3MBs of space, follow this step.
+Go to /Contents/PlatformContent/pc/fonts/, on Windows: /PlatformContent/pc/fonts/ and replace NotoSans font with the one from the extras folder.
 
 # Updates
 There may be updates to README.md, like adding further improvements, to adding photos (may be done). Updates may take long.
