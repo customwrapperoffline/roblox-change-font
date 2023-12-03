@@ -1,9 +1,6 @@
 # roblox-change-font
 This is instructions on how to put JetBrains Mono to the Roblox client. Credits to JetBrains for the font and Grammarly for fixing the text.
 
-# THIS IS UNDONE!
-Please do not use this repository before I complete putting the fonts.
-
 ## License
 JetBrains Mono license:
 ```JetBrains Mono typeface is available under the SIL Open Font License 1.1 license and can be used free of charge, for both commercial and non-commercial purposes. You do not need to give credit to JetBrains, although we will appreciate it very much if you do.```
